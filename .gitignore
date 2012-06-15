@@ -5,3 +5,7 @@
 .coverage
 venv
 local_settings.py
+.hgignore
+fabfile.py
+mezzanine_themes/
+deploy/
