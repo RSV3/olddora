@@ -8,5 +8,6 @@ filebrowser-safe==0.2.6
 grappelli-safe==0.2.6
 html5lib==0.95
 pisa==3.0.33
+psycopg2==2.4.5
 pytz==2012c
 wsgiref==0.1.2
